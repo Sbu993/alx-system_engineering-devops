@@ -1,3 +1,2 @@
 #!/bin/bash
-cp -rua *.html
-cp -rua *.html alx-system_engineering-devops
+cp -r *.html /alx-system_engineering-devops
